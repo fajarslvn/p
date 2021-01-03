@@ -1,10 +1,12 @@
-## Welcome to My Portfolio Page
+----------------------------------
+| # Welcome to My Portfolio Page |
+----------------------------------
 
 ### Project 1: Analyzing Sales Data on Electronic online store
 
-![Graph1](project1.png)
+![pic1](project1.png)
 
-#### [Project Showcase: Click here](project1.html)
+#### [Click here to see Project Showcase](project1.html)
 These project are the result of analysis of sales data obtained from an electronic online store, and are intended to predict which products can increase the sales of this electronic online store, in the coming years.
 
 From the sales data obtained from this electronic online shop, questions from client arise that are used to analyze existing data.
@@ -21,4 +23,4 @@ From the sales data obtained from this electronic online shop, questions from cl
 * Cleaning and fixing error data using Python.
 * Using Python calculated the need it data to get the result what client wants.
 * Making graphic chart to showing the results.
-* Created a web application dashbord with python.
+* Created a web application dashbord with Python.
