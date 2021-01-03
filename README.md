@@ -1,6 +1,4 @@
-----------------------------------
-| # Welcome to My Portfolio Page |
-----------------------------------
+----- # Welcome to My Portfolio Page # -----
 
 ### Project 1: Analyzing Sales Data on Electronic online store
 
