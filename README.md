@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/fajarslvn/p/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Project 1: Analyzing Sales Data on Electronic online store
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Graph1](project1.png)
 
-### Markdown
+#### [Project Showcase: Click here](project1.html)
+These project are the result of analysis of sales data obtained from an electronic online store, and are intended to predict which products can increase the sales of this electronic online store, in the coming years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From the sales data obtained from this electronic online shop, questions from client arise that are used to analyze existing data.
 
-```markdown
-Syntax highlighted code block
+##### This are the questions from a client:
+1. What time should we display advertisement to maximize customer buying product?
+2. What product sold the most?
+3. What is best month for sales? How much was earned that month?
+4. What city had the highest number of sales?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fajarslvn/p/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Project details
+* Observe and analyze sales data to help client predicted they're sales goals in the future.
+* Collected data from csv/excel files and using it for Exploratory Data Analysis (EDA).
+* Cleaning and fixing error data using Python.
+* Using Python calculated the need it data to get the result what client wants.
+* Making graphic chart to showing the results.
+* Created a web application dashbord with python.
