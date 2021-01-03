@@ -9,7 +9,7 @@ These project are the result of analysis of sales data obtained from an electron
 
 From the sales data obtained from this electronic online shop, questions from client arise that are used to analyze existing data.
 
-##### This are the questions from a client:
+#### This are the questions from a client:
 1. What time should we display advertisement to maximize customer buying product?
 2. What product sold the most?
 3. What is best month for sales? How much was earned that month?
